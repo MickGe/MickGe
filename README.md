@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Profile Stats](https://github-readme-stats.vercel.app/api?username=MickGe&count_private=true&show_icons=true&lang=FR&theme=noctis_minimus)
+![Github Profile Stats](https://github-readme-stats.vercel.app/api?username=MickGe&count_private=true&include_all_commits=true&show_icons=true&lang=FR&theme=noctis_minimus)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MickGe&layout=compact)
 
 ### Technologies
 
